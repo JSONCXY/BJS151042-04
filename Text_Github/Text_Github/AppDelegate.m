@@ -11,7 +11,7 @@
 @interface AppDelegate ()
 
 @property(strong,nonatomic)NSString *ji;
-
+@property(strong,nonatomic)NSString *ji1;
 
 @end
 
