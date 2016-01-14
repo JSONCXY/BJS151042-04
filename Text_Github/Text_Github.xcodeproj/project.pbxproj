@@ -14,6 +14,7 @@
 		A045386E1C4737590022E3C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A045386D1C4737590022E3C7 /* Assets.xcassets */; };
 		A04538711C4737590022E3C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A045386F1C4737590022E3C7 /* LaunchScreen.storyboard */; };
 		A045387A1C473B990022E3C7 /* ajkdfa.m in Sources */ = {isa = PBXBuildFile; fileRef = A04538791C473B990022E3C7 /* ajkdfa.m */; };
+		A045387D1C473C4A0022E3C7 /* aaaa.m in Sources */ = {isa = PBXBuildFile; fileRef = A045387C1C473C4A0022E3C7 /* aaaa.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		A04538721C4737590022E3C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A04538781C473B990022E3C7 /* ajkdfa.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ajkdfa.h; sourceTree = "<group>"; };
 		A04538791C473B990022E3C7 /* ajkdfa.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ajkdfa.m; sourceTree = "<group>"; };
+		A045387B1C473C4A0022E3C7 /* aaaa.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aaaa.h; sourceTree = "<group>"; };
+		A045387C1C473C4A0022E3C7 /* aaaa.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = aaaa.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				A04538681C4737590022E3C7 /* ViewController.m */,
 				A04538781C473B990022E3C7 /* ajkdfa.h */,
 				A04538791C473B990022E3C7 /* ajkdfa.m */,
+				A045387B1C473C4A0022E3C7 /* aaaa.h */,
+				A045387C1C473C4A0022E3C7 /* aaaa.m */,
 				A045386A1C4737590022E3C7 /* Main.storyboard */,
 				A045386D1C4737590022E3C7 /* Assets.xcassets */,
 				A045386F1C4737590022E3C7 /* LaunchScreen.storyboard */,
@@ -154,6 +159,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A045387D1C473C4A0022E3C7 /* aaaa.m in Sources */,
 				A045387A1C473B990022E3C7 /* ajkdfa.m in Sources */,
 				A04538691C4737590022E3C7 /* ViewController.m in Sources */,
 				A04538661C4737590022E3C7 /* AppDelegate.m in Sources */,

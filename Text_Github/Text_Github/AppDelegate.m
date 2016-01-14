@@ -10,6 +10,9 @@
 
 @interface AppDelegate ()
 
+@property(strong,nonatomic)NSString *ji;
+
+
 @end
 
 @implementation AppDelegate
